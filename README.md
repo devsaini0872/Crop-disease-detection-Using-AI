@@ -52,11 +52,9 @@ This project focuses on detecting crop diseases using Artificial Intelligence (A
    ```
 
 3. Run the file:
-
+ ```bash
+main.py
    ```
-  main.py
-   ```
-
 ---
 
 ## 📊 Output
