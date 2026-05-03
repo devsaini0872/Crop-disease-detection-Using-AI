@@ -89,6 +89,3 @@ Developed By Sania Chauhan and Devanshu Saini (Chandigarh University)
 
 ---
 
-## 📜 License
-
-This project is for educational purposes only.
